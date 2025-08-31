@@ -1,6 +1,7 @@
 # 🎓 Odoo Finals - Placement Management System
 
 A comprehensive placement management system for educational institutions, featuring job posting, application management, testing, and placement tracking with role-based access for Students, Companies, and TPOs (Training & Placement Officers).
+Youtube Link :- https://youtu.be/-27qq8bf8zg
 
 ## 📋 Table of Contents
 
